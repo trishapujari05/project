@@ -40,9 +40,9 @@ header {
     border-bottom: 4px solid #f54e77;
 }
 .nav_bar a sup {
-    color:#f54e77;
+    color: #ff3f6c;
+    font-size: 10px;
 }
-
 .search_bar {
     height: 40px;
     min-width: 200px;
